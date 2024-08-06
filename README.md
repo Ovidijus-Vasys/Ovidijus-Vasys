@@ -1,4 +1,4 @@
-# Ovidijus Vasys (OVI) Cybersecurity Portfolio
+# OVI's Cybersecurity Portfolio
 ## About Me
 
 I am a cybersecurity professional with a passion for technology and security. I completed the [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/BRZK4ET69VY4) and possess skills in tcpdump, Wireshark, Splunk, Cisco Packet Tracer, and Chronicle. I am also a DJ, Music Producer, and an enthusiast of Cryptocurrency, Web3, and Blockchain technology. My creativity and willingness to learn drive my continuous growth in both technology and music.

@@ -17,8 +17,6 @@ https://linktr.ee/ovidijusvasys
 I am OVI, a cybersecurity enthusiast with a passion for protecting digital assets and exploring the latest in security technologies. I graduated from the [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/BRZK4ET69VY4). In addition to cybersecurity, I am also a DJ and Music Producer, and a Cryptocurrency, Web3, and Blockchain technology enthusiast.
 
 ## Skills
-- **Penetration Testing**: Proficient in tools such as Metasploit, Burp Suite, and Nmap.
-- **Digital Forensics**: Experienced with tools like Autopsy and FTK.
 - **Network Security**: Knowledgeable in securing networks, firewalls, and IDS/IPS systems.
 - **SIEM Tools**: Familiar with Splunk and IBM QRadar.
 - **Network Analysis**: Proficient in using Wireshark for network traffic analysis.

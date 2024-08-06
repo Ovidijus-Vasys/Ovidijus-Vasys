@@ -26,46 +26,21 @@ I am OVI, a cybersecurity enthusiast with a passion for protecting digital asset
 
 ## Certifications
 - **[Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/2MK64MNERS3F)**
-  - Recognize core skills and knowledge needed to become a cybersecurity analyst.
-  - Identify how security attacks impact business operations.
-  - Explain security ethics.
-  - Identify common tools used by cybersecurity analysts.
+ 
 - **[Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/8U8JL9UZ26NA)**
-  - Identify the primary threats, risks, and vulnerabilities to business operations.
-  - Examine how organizations use security frameworks and controls to protect business operations.
-  - Define commonly used Security Information and Event Management (SIEM) tools.
-  - Use a playbook to respond to threats, risks, and vulnerabilities.
-- **[Connect and Protect: Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/GHD5YBWNCZCF)**
-  - Define the types of networks and components of networks.
-  - Illustrate how data is sent and received over a network.
-  - Understand how to secure a network against intrusion tactics.
-  - Describe system hardening techniques.
-- **[Tools of the Trade: Linux and SQL](https://www.coursera.org/account/accomplishments/verify/FA6TQP52FZQN)**
-  - Explain the relationship between operating systems, applications, and hardware.
-  - Compare a graphical user interface to a command line interface.
-  - Navigate and manage the file system using Linux commands via the Bash shell.
-  - Use SQL to retrieve information from a database.
-- **[Assets, Threats, and Vulnerabilities](https://www.coursera.org/account/accomplishments/verify/DCQ8V5FQLRVA)**
-  - Classify assets.
-  - Analyze an attack surface to find risks and vulnerabilities.
-  - Identify threats, such as social engineering, malware, and web-based exploits.
-  - Summarize the threat modeling process.
-- **[Sound the Alarm: Detection and Response](https://www.coursera.org/account/accomplishments/verify/6YXXUGB6D8SP)**
-  - Identify the steps to contain, eradicate, and recover from an incident.
-  - Analyze packets to interpret network communications.
-  - Understand basic syntax, components of signatures, and logs in Intrusion Detection Systems (IDS) and Network Intrusion Detection Systems (NIDS) tools.
-  - Perform queries in Security Information and Event Management (SIEM) tools to investigate an event.
-- **[Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/verify/NEGUGLQVH5Z8)**
-  - Explain how the Python programming language is used in cybersecurity.
-  - Create new, user-defined Python functions.
-  - Use regular expressions to extract information from text.
-  - Practice debugging code.
-- **[Put It to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/account/accomplishments/verify/Z6LVZ58M5HXQ)**
-  - Determine when and how to escalate a security incident.
-  - Engage with the cybersecurity community.
-  - Find and apply for cybersecurity jobs.
-  - Prepare for job interviews.
 
+- **[Connect and Protect: Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/GHD5YBWNCZCF)**
+  
+- **[Tools of the Trade: Linux and SQL](https://www.coursera.org/account/accomplishments/verify/FA6TQP52FZQN)**
+
+- **[Assets, Threats, and Vulnerabilities](https://www.coursera.org/account/accomplishments/verify/DCQ8V5FQLRVA)**
+
+- **[Sound the Alarm: Detection and Response](https://www.coursera.org/account/accomplishments/verify/6YXXUGB6D8SP)**
+
+- **[Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/verify/NEGUGLQVH5Z8)**
+
+- **[Put It to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/account/accomplishments/verify/Z6LVZ58M5HXQ)**
+ 
 ## Projects
 - [Project 1: Web Application Penetration Testing](./Projects/WebAppPentest)
 - [Project 2: Network Security Monitoring](./Projects/NetworkSecurityMonitoring)

@@ -1,11 +1,21 @@
-# OVI's Cybersecurity Portfolio
+# Ovi's GitHub Portfolio
+
+Welcome to my GitHub portfolio! Here you'll find projects showcasing my skills in cybersecurity, DJing, and music production.
+
+- [![X.com](https://img.shields.io/badge/X.com-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/ovidijusvasys)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ovidijus-vasys-11aaa9166/)
+- [![Linktree](https://img.shields.io/badge/Linktree-@ovidijusvasys-green?style=for-the-badge)](https://linktr.ee/ovidijusvasys)
+
 ## About Me
 
-I am a cybersecurity professional with a passion for technology and security. I completed the [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/BRZK4ET69VY4) and possess skills in tcpdump, Wireshark, Splunk, Cisco Packet Tracer, and Chronicle. I am also a DJ, Music Producer, and an enthusiast of Cryptocurrency, Web3, and Blockchain technology. My creativity and willingness to learn drive my continuous growth in both technology and music.
+I have a passion for cybersecurity, cryptocurrency, Web3, and blockchain technology. I'm also a DJ and music producer.
+- [![Spotify](https://img.shields.io/badge/Spotify-@ovimusic-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/1PEsFF3mnM84n8ZmAO118o?si=yA9NOKSWRLaQqsnt7vpEww)
+- [![SoundCloud](https://img.shields.io/badge/SoundCloud-@ovimusic-orange?style=for-the-badge)](https://soundcloud.com/ovimusic)
 
-Feel free to reach out to me on the following platforms to see my work and connect with me. I am always open to new opportunities and collaborations in the technology and cybersecurity sectors.
+## Objective
 
-[![Linktree](https://img.shields.io/badge/Linktree-@ovidijusvasys-green?style=for-the-badge)](https://linktr.ee/ovidijusvasys)
+To leverage my skills in tcpdump, Wireshark, Splunk, Cisco Packet Tracer, and Chronicle in a cybersecurity role, continuously expanding my knowledge and contributing to innovative projects. 
+My creativity and willingness to learn drive my continuous growth in both technology and music.
 
 ## Skills
 - **Network Security**: Knowledgeable in securing networks, firewalls, and IDS/IPS systems.
@@ -48,14 +58,11 @@ Feel free to reach out to me on the following platforms to see my work and conne
 - **[Dante Certificate of Completion](https://www.dropbox.com/preview/CYBERSECURITY%20COURSE/certification-2nd-Edition-Dante-Level-1---English-ovidijus.vasys%40encore-anzpac.com.pdf?context=content_suggestions&role=personal)**
 
 ## Contact Me
+Feel free to reach out to me on the following platforms to see my work and connect with me. I am always open to new opportunities and collaborations in the technology and cybersecurity sectors.
 
-[![Linktree](https://img.shields.io/badge/Linktree-@ovidijusvasys-green?style=for-the-badge)](https://linktr.ee/ovidijusvasys)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ovidijus-vasys-11aaa9166/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/ovidijus.vasys)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/ovimusic)
-[![X.com](https://img.shields.io/badge/X.com-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/OVI_Ovidijus)
-
+- [![X.com](https://img.shields.io/badge/X.com-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/ovidijusvasys)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ovidijus-vasys-11aaa9166/)
+- [![Linktree](https://img.shields.io/badge/Linktree-@ovidijusvasys-green?style=for-the-badge)](https://linktr.ee/ovidijusvasys)
 
 
 

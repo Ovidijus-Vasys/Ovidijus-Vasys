@@ -38,7 +38,8 @@ My creativity and willingness to learn drive my continuous growth in both techno
 - [Analysis of a Phishing Attack](https://www.dropbox.com/scl/fi/l6anzdczroefubbt3ognm/Analysis-of-a-Phishing-Attack.pdf?rlkey=uk63zwm1y5hpzwduun4hpizg7&st=nt10upgh&dl=0)
 
 ## Certifications
-
+- **[Google Cybersecurity Professional Certificate](https://www.dropbox.com/scl/fi/j9gu30zp9oj5bvfro9840/Coursera-BRZK4ET69VY4.pdf?rlkey=lz7ipmmq18ip55zzgxfzb5jar&st=9hzerk42&dl=0)**
+  
 - **[Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/2MK64MNERS3F)**
  
 - **[Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/8U8JL9UZ26NA)**
